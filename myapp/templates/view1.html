@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous" />
+</head>
+
+<body>
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-12">
+
+                <table class="table">
+                    <thead>
+                      <tr>
+                        <th >S/N</th>
+                        <th >Name</th>
+                        <th >File Link</th>
+                        <th ></th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {% for d in data %}
+                      <tr>
+                        <th>{{forloop.counter}}</th>
+                        <!-- files_data2 -->
+                        <!-- <th>{{d.file_name}}</th> -->
+                        <th><a  href="{{d.my_file2.url}}">{{d.my_file1.url}}</a></th>
+                        <th><a  href="{{d.my_file3.url}}">{{d.my_file2.url}}</a></th>
+                        <th><a  href="{{d.my_file1.url}}">{{d.my_file3.url}}</a></th>
+                        <th><a  href="{{d.my_file4.url}}">{{d.my_file4.url}}</a></th>
+
+                        <!-- <th><a  href="{{d.my_file4.url}}">{{d.my_file4}}</a></th> -->
+                      </tr>
+                      {% endfor %}
+                    </tbody>
+                  </table>
+
+
+
+            </div>
+        </div>
+    </div>
+
+
+
+
+</body>
+
+</html>

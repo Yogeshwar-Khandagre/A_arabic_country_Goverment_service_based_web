@@ -1,0 +1,50 @@
+{% load static %}
+{% block content %}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="{% static 'style.css' %}">
+</head>
+{%for msg in messages %}
+	{{ msg }}
+{%endfor%} 
+
+<body>
+	
+    <div class="app">
+
+		<div class="bg"></div>
+
+		<form action="{% url 'signin' %}" method="POST">
+			{% csrf_token %}
+			<header>
+				<span style="font-size:21px; margin-left:10px;color: white;">
+					Super Admin</span>
+			<img src="{% static 'pylogo1.JPG' %}" style="border-radius:100px; margin-top: 14px;">
+
+	
+			</header>
+			
+			<div class="inputs">
+				
+				<input class="text" type="email" id="email" name="Email" placeholder="Email" required="">
+				<input class="text" type="password" id="password" name="Password" placeholder="Password" required="">
+				<input type="submit">
+				
+				<!-- <p class="light"><a href="#">Forgot password?</a></p> -->
+			</div>
+
+		</form>
+
+	</div>
+
+	
+</body>
+</html>
+{% endblock %} 

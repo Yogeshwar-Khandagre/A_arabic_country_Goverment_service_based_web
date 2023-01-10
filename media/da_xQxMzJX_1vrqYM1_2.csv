@@ -1,0 +1,26 @@
+,Application Number,Product Name,Proposal Date,Billing Frequency,Sum Assured,Policy Term,Premium Term,Premium,Bank Name,Channel,Location,AGEPROOF,DOB,Annual Income,Customer State,RELATIONSHIP_WITH_NOMINEE,NRI Flag,STAFF FLAG,Customer Mobile Number,Customer Gender,Customer Marital Status,Customer Occupation,Customer Qualification,Customer Email ID,Customer Pin Code,Branch Code,LG Code,STP_FLAG,BDM Code,probab
+0,P03156467,U23,11/5/2021,1,700000,10,5,100000,BANK OF BARODA,BA,227809,AA,19940122,420000,UTPR,WI,FALSE,No,8009256287,M,M,SELF,12,jagsul1bankofbaroda@gmail.com,227809,B0066,B0089492,No,1009269,"{""Application Number"":""P03156467"",""pred"":0.2356133573,""PIVC FLAG"":""""}"
+1,P03156535,T41,11/5/2021,1,10000000,48,0,10808,BANK OF BARODA,ER,203205,AA,19890107,300000,UTPR,,FALSE,Yes,9756010022,M,M,SALR,GR,hky11111987@gmail.com,203205,B7715,VB177422,No,0,"{""output"":""DataFrame has NULL values""}
+"
+2,P03161151,U22,11/5/2021,1,700000,10,5,100000,BANK OF BARODA,BA,110018,AA,19720725,500000,DELH,DA,FALSE,No,9811379701,M,M,SALR,GR,hardeep.channa@gmail.com,110018,B3220,B0187096,No,1006050,"{""Application Number"":""P03161151"",""pred"":0.0759010956,""PIVC FLAG"":""""}"
+3,P03161209,U22,11/5/2021,1,700000,10,5,100000,BANK OF BARODA,BA,110018,AA,19740120,500000,DELH,SO,FALSE,No,9871363649,F,M,SELF,GR,hardeep.channa@gmail.com,110018,B3220,B0187096,No,1006050,"{""Application Number"":""P03161209"",""pred"":0.0799929121,""PIVC FLAG"":""""}"
+4,P03161248,T27,11/5/2021,1,50000,9,5,10292,BANK OF BARODA,BA,247001,PA,19880703,200000,UTPR,HU,FALSE,No,9870929684,F,M,SELF,12,vjsajv@bankofbaroda.co.in,247001,B7739,DB164333,No,1007809,"{""Application Number"":""P03161248"",""pred"":0.2893193075,""PIVC FLAG"":""""}"
+5,P03161743,T44,11/5/2021,1,1250220,10,5,100500,BANK OF BARODA,ER,387630,PA,19610501,300000,GUJA,,FALSE,Yes,9601545347,M,M,SALR,GR,laljibhairpatel@gmail.com,387630,B0295,B0112811,No,1005809,"{""output"":""DataFrame has NULL values""}
+"
+6,P03164495,T41,11/5/2021,1,10000000,37,27,33165,BANK OF BARODA,BA,362560,PA,19771006,1000000,GUJA,WI,FALSE,No,9879359584,M,M,SELF,GR,pattanimanshu964@gmail.com,362560,B3262,B0126540,No,1007780,"{""Application Number"":""P03164495"",""pred"":0.2323090439,""PIVC FLAG"":""""}"
+7,P03004538,U23,11/5/2021,1,175000,10,5,25000,BANK OF BARODA,BA,394210,PA,19770702,350000,GUJA,WI,FALSE,No,9601497149,M,M,SELF,SC,abc@xyz.com,394210,B1611,B0057716,No,0,"{""output"":""BDM Dataset has NULL values""}
+"
+8,P03164585,U23,11/5/2021,1,250000,10,10,25000,BANK OF BARODA,BA,302018,AA,19780123,300000,RAJA,,FALSE,No,9414398858,F,M,SELF,GR,kalpnamaheshwari1979@gmail.com,302018,B0113,B0128342,No,1002710,"{""output"":""DataFrame has NULL values""}
+"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,95//2022,,,,,,,,,,,,,,,,,,,,,,,,,,,
